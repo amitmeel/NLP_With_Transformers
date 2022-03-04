@@ -1,6 +1,6 @@
 This repo is created to learn about nlp related tasks with the help of transformers(specially using 🤗 transformers).
 
-The Transformer architecture was originally designed for translation related tasks in the paper [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
+The Transformer architecture in paper <b>[Attention Is All You Need](https://arxiv.org/abs/1706.03762)<b> was originally designed for translation related tasks. 
 
 Below are some resources to learn about the original architecture:
 1. [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
